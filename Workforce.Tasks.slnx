@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Workforce.Tasks.Api/Workforce.Tasks.Api.csproj" />
+  <Project Path="Workforce.Tasks.Application/Workforce.Tasks.Application.csproj" Id="36e14460-fd84-416a-bf14-22d05c76ccd2" />
+  <Project Path="Workforce.Tasks.Domain/Workforce.Tasks.Domain.csproj" Id="d5830cbc-d724-4e9c-9cfa-f3fd28038295" />
+  <Project Path="Workforce.Tasks.Infrastructure/Workforce.Tasks.Infrastructure.csproj" Id="601948db-d175-4c31-94a6-8c7e4c854e52" />
+</Solution>
